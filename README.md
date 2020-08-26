@@ -1,4 +1,5 @@
-# Profit-Sharing Token
+# Profit-Sharing Token - originally developed by Friedger M. in 2020
+*
 
 ![Token](images/token.png)
 
